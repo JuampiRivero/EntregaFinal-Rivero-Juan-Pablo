@@ -1,3 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Jost", sans-serif;
+}
 
+@media (min-width: 320px) and (max-width: 480px) {
+  body {
+    height: 1000px;
+    width: auto;
+    background-color: rgb(190, 9, 48);
+  }
+  .navbar {
+    background-color: rgb(51, 5, 28) !important;
+  }
+  .BarraNav {
+    display: flex;
+    align-items: center;
+  }
+  .BarraNav ul {
+    width: 100%;
+  }
+  .BarraNav ul li {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .BarraNav ul li a {
+    font-size: 22px;
+  }
+  .logo {
+    height: 50px;
+    width: auto;
+    margin: 1px;
+    margin-left: 4px;
+  }
+  .titulo {
+    margin-right: 14px;
+    text-decoration: underline rgb(190, 9, 48) 3px;
+    text-underline-offset: 6px;
+  }
+  .titulo h1 {
+    font-size: 25px;
+  }
+  .titulo span {
+    color: rgb(190, 9, 48);
+  }
+}
 
 /*# sourceMappingURL=estilos.css.map */

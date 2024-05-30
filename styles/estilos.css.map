@@ -1,1 +1,1 @@
-{"version":3,"sourceRoot":"","sources":[],"names":[],"mappings":"","file":"estilos.css"}
+{"version":3,"sourceRoot":"","sources":["estilos.scss"],"names":[],"mappings":"AAAQ;AAIR;EACI;EACA;EACA;EACA,aANG;;;AASP;EACI;IACI;IACA;IACA;;EAEJ;IACI;;EAEJ;IACI;IACA;;EACA;IACI;;EACA;IACI;IACA;IACA;;EACA;IACI;;EAKhB;IACI;IACA;IACA;IACA;;EAEJ;IACI;IACA;IACA;;EACA;IACA;;EAEA;IACA","file":"estilos.css"}
