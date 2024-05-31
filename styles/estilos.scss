@@ -253,6 +253,47 @@ $rojooscuro: rgb(43, 1, 1);
             transition: 0.7s;
         }
     }
+    .formulario {
+        width: 80%;
+        margin: 0 auto;
+        margin-bottom: 40px;
+        padding: 20px;
+        color: white;
+        background-color: $rosaoscuro;
+        border-radius: 10px;
+    }
+    
+    .contacto {
+        margin-bottom: 10px;
+    }
+    
+    input[type="text"],
+    input[type="email"],
+    textarea {
+        width: 100%;
+        padding: 10px;
+        border: 1px solid #ccc; 
+        border-radius: 5px; 
+        margin-top: 5px; 
+    }
+    
+    input[type="checkbox"] {
+        margin-right: 5px; 
+    }
+    
+    input[type="submit"] {
+        background-color: $rosa;
+        color: white; 
+        padding: 10px 20px;
+        border: none; 
+        border-radius: 5px;
+        cursor: pointer;
+        transition: 0.5s;
+    }
+    
+    input[type="submit"]:hover {
+        background-color: $rojooscuro; 
+    }
 }
 @media (min-width: 380px) and (max-width: 405px) {
     body {
@@ -487,6 +528,47 @@ $rojooscuro: rgb(43, 1, 1);
             transition: 0.7s;
         }
     }
+    .formulario {
+        width: 80%;
+        margin: 0 auto;
+        margin-bottom: 40px;
+        padding: 20px;
+        color: white;
+        background-color: $rosaoscuro;
+        border-radius: 10px;
+    }
+    
+    .contacto {
+        margin-bottom: 10px;
+    }
+    
+    input[type="text"],
+    input[type="email"],
+    textarea {
+        width: 100%;
+        padding: 10px;
+        border: 1px solid #ccc; 
+        border-radius: 5px; 
+        margin-top: 5px; 
+    }
+    
+    input[type="checkbox"] {
+        margin-right: 5px; 
+    }
+    
+    input[type="submit"] {
+        background-color: $rosa;
+        color: white; 
+        padding: 10px 20px;
+        border: none; 
+        border-radius: 5px;
+        cursor: pointer;
+        transition: 0.5s;
+    }
+    
+    input[type="submit"]:hover {
+        background-color: $rojooscuro; 
+    }
 }
 @media (min-width: 405px) and (max-width: 480px) {
     body {
@@ -720,6 +802,47 @@ $rojooscuro: rgb(43, 1, 1);
             background-color: rgba(51, 5, 28, 0.377);
             transition: 0.7s;
         }
+    }
+    .formulario {
+        width: 80%;
+        margin: 0 auto;
+        margin-bottom: 40px;
+        padding: 20px;
+        color: white;
+        background-color: $rosaoscuro;
+        border-radius: 10px;
+    }
+    
+    .contacto {
+        margin-bottom: 10px;
+    }
+    
+    input[type="text"],
+    input[type="email"],
+    textarea {
+        width: 100%;
+        padding: 10px;
+        border: 1px solid #ccc; 
+        border-radius: 5px; 
+        margin-top: 5px; 
+    }
+    
+    input[type="checkbox"] {
+        margin-right: 5px; 
+    }
+    
+    input[type="submit"] {
+        background-color: $rosa;
+        color: white; 
+        padding: 10px 20px;
+        border: none; 
+        border-radius: 5px;
+        cursor: pointer;
+        transition: 0.5s;
+    }
+    
+    input[type="submit"]:hover {
+        background-color: $rojooscuro; 
     }
 }
 @media (min-width: 480px) and (max-width: 600px) {
@@ -973,6 +1096,47 @@ $rojooscuro: rgb(43, 1, 1);
             transition: 0.7s;
         }
     }
+    .formulario {
+        width: 80%;
+        margin: 0 auto;
+        margin-bottom: 40px;
+        padding: 20px;
+        color: white;
+        background-color: $rosaoscuro;
+        border-radius: 10px;
+    }
+    
+    .contacto {
+        margin-bottom: 10px;
+    }
+    
+    input[type="text"],
+    input[type="email"],
+    textarea {
+        width: 100%;
+        padding: 10px;
+        border: 1px solid #ccc; 
+        border-radius: 5px; 
+        margin-top: 5px; 
+    }
+    
+    input[type="checkbox"] {
+        margin-right: 5px; 
+    }
+    
+    input[type="submit"] {
+        background-color: $rosa;
+        color: white; 
+        padding: 10px 20px;
+        border: none; 
+        border-radius: 5px;
+        cursor: pointer;
+        transition: 0.5s;
+    }
+    
+    input[type="submit"]:hover {
+        background-color: $rojooscuro; 
+    }
 }
 @media (min-width: 600px) and (max-width: 725px) {
     body {
@@ -1222,6 +1386,47 @@ $rojooscuro: rgb(43, 1, 1);
             background-color: rgba(51, 5, 28, 0.377);
             transition: 0.7s;
         }
+    }
+    .formulario {
+        width: 80%;
+        margin: 0 auto;
+        margin-bottom: 40px;
+        padding: 20px;
+        color: white;
+        background-color: $rosaoscuro;
+        border-radius: 10px;
+    }
+    
+    .contacto {
+        margin-bottom: 10px;
+    }
+    
+    input[type="text"],
+    input[type="email"],
+    textarea {
+        width: 100%;
+        padding: 10px;
+        border: 1px solid #ccc; 
+        border-radius: 5px; 
+        margin-top: 5px; 
+    }
+    
+    input[type="checkbox"] {
+        margin-right: 5px; 
+    }
+    
+    input[type="submit"] {
+        background-color: $rosa;
+        color: white; 
+        padding: 10px 20px;
+        border: none; 
+        border-radius: 5px;
+        cursor: pointer;
+        transition: 0.5s;
+    }
+    
+    input[type="submit"]:hover {
+        background-color: $rojooscuro; 
     }
 }
 @media (min-width: 725px) and (max-width: 825px) {
@@ -1473,6 +1678,47 @@ $rojooscuro: rgb(43, 1, 1);
             transition: 0.7s;
         }
     }
+    .formulario {
+        width: 80%;
+        margin: 0 auto;
+        margin-bottom: 40px;
+        padding: 20px;
+        color: white;
+        background-color: $rosaoscuro;
+        border-radius: 10px;
+    }
+    
+    .contacto {
+        margin-bottom: 10px;
+    }
+    
+    input[type="text"],
+    input[type="email"],
+    textarea {
+        width: 100%;
+        padding: 10px;
+        border: 1px solid #ccc; 
+        border-radius: 5px; 
+        margin-top: 5px; 
+    }
+    
+    input[type="checkbox"] {
+        margin-right: 5px; 
+    }
+    
+    input[type="submit"] {
+        background-color: $rosa;
+        color: white; 
+        padding: 10px 20px;
+        border: none; 
+        border-radius: 5px;
+        cursor: pointer;
+        transition: 0.5s;
+    }
+    
+    input[type="submit"]:hover {
+        background-color: $rojooscuro; 
+    }
 }
 @media (min-width: 825px) and (max-width: 940px) {
     body {
@@ -1719,6 +1965,47 @@ $rojooscuro: rgb(43, 1, 1);
             background-color: rgba(51, 5, 28, 0.377);
             transition: 0.7s;
         }
+    }
+    .formulario {
+        width: 80%;
+        margin: 0 auto;
+        margin-bottom: 40px;
+        padding: 20px;
+        color: white;
+        background-color: $rosaoscuro;
+        border-radius: 10px;
+    }
+    
+    .contacto {
+        margin-bottom: 10px;
+    }
+    
+    input[type="text"],
+    input[type="email"],
+    textarea {
+        width: 100%;
+        padding: 10px;
+        border: 1px solid #ccc; 
+        border-radius: 5px; 
+        margin-top: 5px; 
+    }
+    
+    input[type="checkbox"] {
+        margin-right: 5px; 
+    }
+    
+    input[type="submit"] {
+        background-color: $rosa;
+        color: white; 
+        padding: 10px 20px;
+        border: none; 
+        border-radius: 5px;
+        cursor: pointer;
+        transition: 0.5s;
+    }
+    
+    input[type="submit"]:hover {
+        background-color: $rojooscuro; 
     }
 }
 @media (min-width: 940px) and (max-width: 1225px) {
@@ -1974,6 +2261,47 @@ $rojooscuro: rgb(43, 1, 1);
             transition: 0.7s;
         }
     }
+    .formulario {
+        width: 80%;
+        margin: 0 auto;
+        margin-bottom: 40px;
+        padding: 20px;
+        color: white;
+        background-color: $rosaoscuro;
+        border-radius: 10px;
+    }
+    
+    .contacto {
+        margin-bottom: 10px;
+    }
+    
+    input[type="text"],
+    input[type="email"],
+    textarea {
+        width: 100%;
+        padding: 10px;
+        border: 1px solid #ccc; 
+        border-radius: 5px; 
+        margin-top: 5px; 
+    }
+    
+    input[type="checkbox"] {
+        margin-right: 5px; 
+    }
+    
+    input[type="submit"] {
+        background-color: $rosa;
+        color: white; 
+        padding: 10px 20px;
+        border: none; 
+        border-radius: 5px;
+        cursor: pointer;
+        transition: 0.5s;
+    }
+    
+    input[type="submit"]:hover {
+        background-color: $rojooscuro; 
+    }
 }
 @media (min-width: 1225px) and (max-width: 1400px) {
     body {
@@ -2227,6 +2555,47 @@ $rojooscuro: rgb(43, 1, 1);
             background-color: rgba(51, 5, 28, 0.377);
             transition: 0.7s;
         }
+    }
+    .formulario {
+        width: 80%;
+        margin: 0 auto;
+        margin-bottom: 40px;
+        padding: 20px;
+        color: white;
+        background-color: $rosaoscuro;
+        border-radius: 10px;
+    }
+    
+    .contacto {
+        margin-bottom: 10px;
+    }
+    
+    input[type="text"],
+    input[type="email"],
+    textarea {
+        width: 100%;
+        padding: 10px;
+        border: 1px solid #ccc; 
+        border-radius: 5px; 
+        margin-top: 5px; 
+    }
+    
+    input[type="checkbox"] {
+        margin-right: 5px; 
+    }
+    
+    input[type="submit"] {
+        background-color: $rosa;
+        color: white; 
+        padding: 10px 20px;
+        border: none; 
+        border-radius: 5px;
+        cursor: pointer;
+        transition: 0.5s;
+    }
+    
+    input[type="submit"]:hover {
+        background-color: $rojooscuro; 
     }
 }
 @media (min-width: 1400px) {
@@ -2491,5 +2860,46 @@ $rojooscuro: rgb(43, 1, 1);
             background-color: rgba(51, 5, 28, 0.377);
             transition: 0.7s;
         }
+    }
+    .formulario {
+        width: 80%;
+        margin: 0 auto;
+        margin-bottom: 40px;
+        padding: 20px;
+        color: white;
+        background-color: $rosaoscuro;
+        border-radius: 10px;
+    }
+    
+    .contacto {
+        margin-bottom: 10px;
+    }
+    
+    input[type="text"],
+    input[type="email"],
+    textarea {
+        width: 100%;
+        padding: 10px;
+        border: 1px solid #ccc; 
+        border-radius: 5px; 
+        margin-top: 5px; 
+    }
+    
+    input[type="checkbox"] {
+        margin-right: 5px; 
+    }
+    
+    input[type="submit"] {
+        background-color: $rosa;
+        color: white; 
+        padding: 10px 20px;
+        border: none; 
+        border-radius: 5px;
+        cursor: pointer;
+        transition: 0.5s;
+    }
+    
+    input[type="submit"]:hover {
+        background-color: $rojooscuro; 
     }
 }
